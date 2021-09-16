@@ -1,0 +1,12 @@
+/* reset browser defaults */
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: linear-gradient(125deg, rgb(3, 33, 100), rgb(21, 161, 21), rgb(7, 7, 75));
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}

@@ -1,1 +1,11 @@
-style will be added
+canvas{
+    position: absolute;
+}
+
+#collision-canvas{
+    /*
+    make opacity 0 so we do not see the rectangle color behind the raven
+    rectangle color which will be use for collision detection
+    */
+    opacity: 0;
+}
